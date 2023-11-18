@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 - [MongoDB](https://www.mongodb.com/)
 
 ```
-git clone https://github.com/thegeekygamechanger/log-ingestor.git
+https://github.com/navyasatyasriharikajaddu/Log-Ingestor-System.git
 ```
 
 2. Install dependencies
